@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d33fd4a-9136-415d-a91f-deb1c7e46079" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/1_personal-page.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1_personal-page.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2WvOJsx4THBZ6reaxi3UjUTIv0n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -50,11 +56,27 @@
       <option name="presentableId" value="Default" />
       <updated>1697609519208</updated>
       <workItem from="1697609521909" duration="12583000" />
-      <workItem from="1697625055207" duration="481000" />
+      <workItem from="1697625055207" duration="634000" />
+      <workItem from="1697690372740" duration="1806000" />
+      <workItem from="1697862395131" duration="1793000" />
+      <workItem from="1697950862350" duration="2607000" />
+      <workItem from="1698035855329" duration="9594000" />
+      <workItem from="1698047842357" duration="3103000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Vazir";
-    src: url("./fonts/Vazir.eot");
+    src: url("../fonts/Vazir.eot");
     /* IE9 Compat Modes */
-    src: url("./fonts/Vazir.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("./fonts/Vazir.woff2") format("woff2"), /* Super Modern Browsers */
-    url("./fonts/Vazir.woff") format("woff"), /* Pretty Modern Browsers */
-    url("./fonts/Vazir.ttf") format("truetype");
+    src: url("../fonts/Vazir.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Vazir.woff2") format("woff2"), /* Super Modern Browsers */
+    url("../fonts/Vazir.woff") format("woff"), /* Pretty Modern Browsers */
+    url("../fonts/Vazir.ttf") format("truetype");
     /* Safari, Android, iOS */
 }
 
@@ -18,7 +18,7 @@
 
 /* Main Style */
 html, body{
-    font-family: 'Vazir', Arial, B Nazanin;
+    font-family: 'Vazir' !important;
     line-height: 1.7em
 }
 
@@ -133,11 +133,11 @@ p {
 }
 
 #showcase{
-    background-image: url("./img/showcase.jpg");
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-position: center;
-    background-size:cover;
+    /*background-image: url("./img/showcase.jpg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: scroll;*/
+    /*background-position: center;*/
+    /*background-size:cover;*/
     height: 600px;
     opacity: 0.8;
 }
@@ -165,7 +165,7 @@ p {
 
 #home-info .info-img{
     float: left;
-    background-image: url("./img/photo-1.jpg");
+    background-image: url("../img/photo-1.jpg");
     background-size: cover;
     width: 50%;
     height: 100%;
@@ -222,7 +222,7 @@ p {
 #testimonials {
     height: 100%;
     padding-top: 100px;
-    background-image: url("./img/test-bg.jpg");
+    background-image: url("../img/test-bg.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
