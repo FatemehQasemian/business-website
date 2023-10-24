@@ -4,6 +4,10 @@
     <list default="true" id="0d33fd4a-9136-415d-a91f-deb1c7e46079" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/person-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/person-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/showcase.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +25,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2WvOJsx4THBZ6reaxi3UjUTIv0n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -61,6 +65,7 @@
       <workItem from="1697950862350" duration="2607000" />
       <workItem from="1698035855329" duration="9594000" />
       <workItem from="1698047842357" duration="12246000" />
+      <workItem from="1698122517486" duration="12334000" />
     </task>
     <servers />
   </component>
