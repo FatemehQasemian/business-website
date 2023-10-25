@@ -28,7 +28,10 @@ html, body{
     background-color: #1b2a4e;
 }
 
-.cart:hover{
+.cart:hover, .cart:hover .btn{
     transform: scale(1.08);
     box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+    background: #21325b;
+    color: white !important;
+    border-color: white;
 }
