@@ -16,7 +16,19 @@ html, body{
     line-height: 1.7em
 }
 
+.icon {
+    color: #0d6efd;
+    background-color: #ebeafb;
+    display: inline-flex;
+    padding: 15px;
+    border-radius: 15px;
+}
 
 .bg-main {
     background-color: #1b2a4e;
+}
+
+.cart:hover{
+    transform: scale(1.08);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
 }
